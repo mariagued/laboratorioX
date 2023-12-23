@@ -1,0 +1,91 @@
+html{
+    color: #00505a;
+    margin: 1rem; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    font-size: 3rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-weight: bold;
+    font-family: 'none';
+}
+
+nav {
+    color: white;
+    background-color: #b9671b;
+    font-size: 1rem;
+    word-spacing: 1rem;
+    display: block;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    padding: 1rem;      
+}
+
+
+h2{  
+    font-size: 1.7rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-bottom: 1rem;    
+}
+
+p {
+    text-align: justify;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+main h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+#banner {
+    width: 100%;
+    border: 1px solid black;
+    align-items: center; 
+}
+
+small{
+    font-family: 'calibri';
+    text-align: left;
+    font-style: italic;
+}
+
+ol {
+    list-style: start;
+    margin: 1rem;
+}
+
+ul.marcador {
+    list-style-type: circle;
+    margin: 1rem;
+}
+
+footer {
+    width: 100%;
+
+}
+
+.icons {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 2rem;
+}
+
+
+#textRedes {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.imgRedes {
+    margin-top: 1rem;
+    width: 2rem;
+}
